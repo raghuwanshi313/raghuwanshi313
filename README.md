@@ -75,7 +75,7 @@
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Knight-1908-FFA116?style=flat-square" alt="Contest Rating"/>
-        <img src="https://img.shields.io/badge/Problems%20Solved-500%2B-FFA116?style=flat-square" alt="Problems Solved"/>
+        <img src="https://img.shields.io/badge/Problems%20Solved-480%2B-FFA116?style=flat-square" alt="Problems Solved"/>
       </td>
     </tr>
     <tr>
@@ -86,7 +86,7 @@
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Pupil-1264-1F8ACB?style=flat-square" alt="Rating"/>
-        <img src="https://img.shields.io/badge/Problems%20Solved-340%2B-1F8ACB?style=flat-square" alt="Problems Solved"/>
+        <img src="https://img.shields.io/badge/Problems%20Solved-280%2B-1F8ACB?style=flat-square" alt="Problems Solved"/>
       </td>
     </tr>
   </table>

@@ -74,7 +74,7 @@
         </a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Knight-1871-FFA116?style=flat-square" alt="Contest Rating"/>
+        <img src="https://img.shields.io/badge/Knight-1908-FFA116?style=flat-square" alt="Contest Rating"/>
         <img src="https://img.shields.io/badge/Problems%20Solved-500%2B-FFA116?style=flat-square" alt="Problems Solved"/>
       </td>
     </tr>
@@ -101,4 +101,4 @@
 [![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghuwanshi313) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanraghuwanshi2301@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/raghuwanshi313)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://kartik-garg-eight.vercel.app/)
+
